@@ -10,6 +10,7 @@ To install this script, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Set Environmental Variables in a .env file
 
 ## Usage
 
